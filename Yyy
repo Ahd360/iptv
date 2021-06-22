@@ -3,37 +3,25 @@
 
 
 #EXTINF:-1 group-title="Live",LiveHD 1 auto
-
-
 https://hls-origin276.showroom-cdn.com/liveedge/c94b11d8d93e48ac00371f4f96404903eab2fa59e4cb74aad361ed4fbb7cc66a_source/chunklist.m3u8
 
-
-
 #EXTINF:-1 group-title="Live", LiveHD 2 auto
-
-
 https://05bce4580d95b32a.mediapackage.ap-southeast-1.amazonaws.com/out/v1/15fb8a7bdd17445491de125484fbda9c/index.m3u8
 
-
 #EXTINF:-1 group-title="Live",yalla live 1 auto
-
 https://d23oy2lhqs27z5.cloudfront.net/out/v1/f2304e69c54a4c59bcb3902c926e8a5b/index.m3u8
 
 #EXTINF:-1 group-title="Live",yalla live 2 auto
-
 https://google-me.cdn.booyah.live/hls/113137/71976509.m3u8
 
 #EXTINF:-1 group-title="Live",yalla live 3 auto
-
 https://d1muiuvky80o4d.cloudfront.net/out/v1/30d8588475484353bd2d58db40e6d618/index.m3u8
 
 
 #EXTINF:-1 group-title="Live",Tab3 HQ
-
 https://edge2.vedge.infomaniak.com/livecast/ik:tab3kora/chunklist_w561003396.m3u8
 
 #EXTINF:-1 group-title="Live",Tab3 mob
-
 https://edge3.vedge.infomaniak.com/livecast/ik:tab3kora2/chunklist_w1229545294.m3u8
 
 
@@ -80,9 +68,7 @@ https://iptv--iptv.repl.co/Arabic/Zikrayat/
 
 
 #EXTINF:-1 group-title="Web", almamlka HD
-
 https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
-
 
 #EXTINF:-1 group-title="Web""FHD", citruss tv HD
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
